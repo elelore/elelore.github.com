@@ -1,0 +1,24 @@
+site_name: Ele & Lore
+
+nav:
+  - Home: index.md
+  - Dove e Quando: cerimonia.md
+  - Il Party: party.md
+  - I Mattoni: mattoni.md
+  - Gli Scatti: foto.md
+
+theme:
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono' 
+  name: material
+  palette:
+    accent: teal
+    primary: teal
+  language: 'it'
+  logo:
+    icon: 'thumb_up_alt'
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
