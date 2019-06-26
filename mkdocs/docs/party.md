@@ -1,10 +1,10 @@
-# :confetti_ball: :tada: Il Party! :tada: :confetti_ball:
+# Il Party! :tada: :confetti_ball:
 
-[partyhard](https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif")
+<img src="https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif" alt="EleLore" style="display: block; margin:0 auto;" width="300"/>
 
-Dopo la cerimonia in Sala Rossa ci si sposta tutti e se va a magna'! 
+Dopo la Sala Rossa se va finalmente a magna'! 
 
-Se ti sei addormentato e se ne sono giá andati tutti, quando ti svegli puoi raggiungerci qua:
+Se ti sei addormentato e se ne sono giá andati tutti, quando ti svegli puoi raggiungerci qua
 
 **Antica Hostaria della Rocca di Badolo**
 
