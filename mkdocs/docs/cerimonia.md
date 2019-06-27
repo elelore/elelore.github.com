@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/d0kt3ol2ntKfu/giphy.gif" alt="EleLore" style="display: block; margin:0 auto;" width="450"/>
 
-La Cerimonia si terrá nella
+La Cerimonia si terrà nella
 
 **Sala Rossa del Palazzo Comunale**
 

@@ -4,7 +4,7 @@
 
 Dopo la Sala Rossa se va finalmente a magna'! 
 
-Se ti sei addormentato e se ne sono giá andati tutti, quando ti svegli puoi raggiungerci qua
+Se ti sei addormentato e se ne sono già andati tutti, quando ti svegli puoi raggiungerci qua:
 
 **Antica Hostaria della Rocca di Badolo**
 

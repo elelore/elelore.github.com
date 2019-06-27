@@ -1,6 +1,6 @@
 # Regalaci un mattone :sunglasses:
 
-(Carissimo?) Inizieremo la nostra nuova avventura insieme in una casa appena acquistata qui a Berlino. 
+Inizieremo la nostra nuova avventura insieme in una casa appena acquistata qui a Berlino. 
 
 Se è tuo desiderio farci un regalo, vuoi contribuire all'acquisto comprando per noi qualche mattone? 
 
